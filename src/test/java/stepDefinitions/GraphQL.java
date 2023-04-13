@@ -18,8 +18,13 @@ int count =js.get("data.locations.info.count");
 Assert.assertEquals(19, count);
 System.out.println(response);
 System.out.println("working on branch");
+<<<<<<< HEAD
 System.out.println("Develop");
 System.out.println("new change in develop");
+=======
+System.out.println("working on branch-new");
+
+>>>>>>> f6771fa0295ddc132a7d93746796cfbe31be2f18
 
 
 
