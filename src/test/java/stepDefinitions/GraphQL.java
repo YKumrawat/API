@@ -17,10 +17,7 @@ JsonPath js = new JsonPath(response);
 int count =js.get("data.locations.info.count");
 Assert.assertEquals(19, count);
 System.out.println(response);
-System.out.println("working on branch");
-System.out.println("Develop");
-System.out.println("New Change in Develop");
-System.out.println("working on branch-new");
+
 
 
 
