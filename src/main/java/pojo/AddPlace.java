@@ -4,7 +4,6 @@ package pojo;
 import java.util.List;
 
 public class AddPlace {
-	
 	private Location location;
 	private int accuracy;
 	private String name;
